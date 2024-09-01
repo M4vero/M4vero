@@ -1,6 +1,6 @@
 ## ho la 👋
 #esto es una presentacion profesional
-si no sabe no opine
+:D
 
 <!--
 **M4vero/M4vero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
